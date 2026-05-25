@@ -18,7 +18,7 @@ st.title("Heart Disease Prediction using Logistic Regression")
 # LOAD DATASET
 # ---------------------------------------------------
 
-df = pd.read_csv("heart.csv")
+df = pd.read_csv("LogisticRegression/heart.csv")
 
 # ---------------------------------------------------
 # DATA PREPROCESSING
